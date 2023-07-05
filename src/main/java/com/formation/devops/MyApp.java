@@ -8,6 +8,6 @@ public class MyApp
 {
     public MyApp()
     {
-        System.out.println( "Hope it works!" );
+        System.out.println( "does it work!" );
     }
 }
